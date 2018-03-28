@@ -1,4 +1,4 @@
-# Tvořím web od A do Z: Podklady pro 3. lekci
+# [Tvořím web od A do Z](https://github.com/TvorimWeb-2018-Praha/tvorim-web-a-z): Podklady pro 3. lekci
 
 Krátký odkaz na stažení: [is.gd/lekce3](https://is.gd/lekce3)
 
